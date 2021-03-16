@@ -1,0 +1,12 @@
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\DacTienda.dll.config
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\DacTienda.dll
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\DacTienda.pdb
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\EntityFramework.dll
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\EntityFramework.xml
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\obj\Debug\DacTienda.csprojAssemblyReference.cache
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\obj\Debug\DacTienda.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\obj\Debug\DacTienda.csproj.CopyComplete
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\obj\Debug\DacTienda.dll
+C:\Users\berna\source\repos\Segundo Modulo de C, WEB API\TiendaInfantilMioFinal\DacTienda\obj\Debug\DacTienda.pdb
